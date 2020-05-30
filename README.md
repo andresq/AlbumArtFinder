@@ -1,5 +1,9 @@
 # Album Art Finder
 
+This project is made to use Spotify's REST API: given an artist name, it displays (and caches) the album art of the artist 
+
+
+---
 Add your Spotify API credentials in auth/credentials.json as:
 
 `{
@@ -10,6 +14,6 @@ Add your Spotify API credentials in auth/credentials.json as:
 ---
 1. Start server via `node index.js`
 
-2. go to `localhost:3000` in web browser
+2. Go to `localhost:3000` in web browser
 
-3. Ctl + C to quit sever
+3. Ctl + C to quit the server
