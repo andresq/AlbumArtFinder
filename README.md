@@ -3,6 +3,9 @@
 This project is made to use Spotify's REST API: given an artist name, it displays (and caches) the album art of the artist 
 
 
+![](AlbumArtFinder.gif)
+
+
 ---
 Add your Spotify API credentials in auth/credentials.json as:
 
